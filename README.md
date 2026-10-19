@@ -65,8 +65,8 @@ Busco uma oportunidade de **estágio** para aprender na prática, contribuir com
 
 ## 🐍 Minhas contribuições
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/guilhermediniz-c/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/guilhermediniz-c/guilhermediniz-c/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
