@@ -65,11 +65,9 @@ Busco uma oportunidade de **estágio** para aprender na prática, contribuir com
 
 ## 🐍 Minhas contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-  <img alt="Cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-</picture>
+<div align=center>
+<img src="https://raw.githubusercontent.com/guilhermediniz-c/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
