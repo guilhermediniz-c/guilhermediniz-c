@@ -63,12 +63,13 @@ Busco uma oportunidade de **estágio** para aprender na prática, contribuir com
 
 ---
 
-## 🚀 Projetos
+## 🐍 Minhas contribuições
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 📝 **Gerenciador de Tarefas** | API REST com CRUD completo e banco relacional | Java, Spring Boot, PostgreSQL |
-| 📊 **Mini Gestor de Projetos** | Sistema com backlog, prioridades e acompanhamento de tarefas | Java, Spring, JPA, Docker |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+</picture>
 
 ---
 
