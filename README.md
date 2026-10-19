@@ -74,12 +74,3 @@ Busco uma oportunidade de **estágio** para aprender na prática, contribuir com
 Começar como estagiário em desenvolvimento Java, aprender com o time e evoluir ao longo da carreira para **liderança técnica e gestão de projetos de software**, unindo tecnologia e administração.
 
 ---
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
-<p align="center">
-  <i>"Código bom resolve problemas. Gestão boa entrega soluções."</i> ☕
-</p>
